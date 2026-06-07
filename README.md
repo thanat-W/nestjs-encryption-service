@@ -72,7 +72,7 @@ Place generated keys into the corresponding files.
 Development mode:
 
 ```bash
-npm run start:dev
+npm start
 ```
 
 Application will be available at:
